@@ -1,8 +1,8 @@
 # TP Node.js MongoDB Client - Rapport Technique
 
-**Réalisé par** : [Votre Nom]  
-**Classe** : [Votre Classe]  
-**Date** : Décembre 2024
+**Réalisé par** : BOUDANS SALAH EDDINE  
+**Classe** : CCN-2  
+**Repository GitHub** : [https://github.com/SalahBoudans/TP-NodeJS-Mongodb-Client]
 
 ---
 
